@@ -29,4 +29,4 @@ Sinta-se à vontade para contribuir com melhorias ou sugestões. Para isso, faç
 
 :)
 
-Link = banana.com
+link = banana.com
